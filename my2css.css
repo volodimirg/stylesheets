@@ -1,0 +1,46 @@
+
+	mynav ul{
+		width: 95%;
+		float: left;
+		
+		display:flex;
+		justify-content: center;     
+			position: relative;
+			background: #b2c987; 
+		background: linear-gradient(top, #b2c987 0%, #90a26d 100%);  
+		background: -moz-linear-gradient(top, #b2c987 0%, #90a26d 100%); 
+		background: -webkit-linear-gradient(top, #b2c987 0%,#90a26d 100%); 
+		border-radius: 10px; 
+		
+	}
+	mynav li {
+		margin:0;
+		padding:0;
+		list-style:none;
+		
+	}
+	mynav a{
+		display:block;
+		float:left;
+		width: 200px;
+		padding: 10 px;
+		margin: 10px;
+		text-decoration-line:none;
+		
+		<!--border: 2px black solid;-->
+	}
+	
+	mynav li#r {
+		text-align: right;
+	}
+	
+	mynav li#c {
+		width:20px;
+	}
+	mynav a:hover{
+		text-decoration-line:none;
+		background:fff5f5;
+		color:black;
+		border-radius: 10px; 
+		
+	}
