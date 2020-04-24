@@ -44,14 +44,14 @@
 		border-radius: 10px; 
 		
 	}
-<!-- for pages -->
-b#my {
-     background: #7e8cf1; 
-     background: -moz-linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
-     background: -webkit-linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
-     background: linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
-     border-radius: 10px; 
-     float: left; 
-     text-align: center; 
-     width: 50%;
-}
+
+	b#my {
+	     background: #7e8cf1; 
+	     background: -moz-linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
+	     background: -webkit-linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
+	     background: linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
+	     border-radius: 10px; 
+	     float: left; 
+	     text-align: center; 
+	     width: 50%;
+	}
