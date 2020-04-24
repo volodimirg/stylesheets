@@ -5,12 +5,12 @@
 		
 		display:flex;
 		justify-content: center;     
-			position: relative;
-			background: #b2c987; 
-		background: linear-gradient(top, #b2c987 0%, #90a26d 100%);  
-		background: -moz-linear-gradient(top, #b2c987 0%, #90a26d 100%); 
-		background: -webkit-linear-gradient(top, #b2c987 0%,#90a26d 100%); 
-		border-radius: 10px; 
+		position: relative;
+    		background: #7e8cf1; 
+    		background: -moz-linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
+    		background: -webkit-linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
+     		background: linear-gradient(top , #6ec2de 0% , #7e8cf1 100%); 
+		border-radius: 20px; 
 		
 	}
 	mynav li {
